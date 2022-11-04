@@ -1,4 +1,5 @@
-![Dbianbanner](https://user-images.githubusercontent.com/79420053/199480193-289782ad-90a7-4537-8f4c-cca64e36b55f.png)
+![score](https://user-images.githubusercontent.com/79420053/200079045-8fa91783-7a26-4213-87b1-bc97c34abf73.jpg)
+
 # Projeto Predição do Score e Pontuação de Créditos
 
  - O score de crédito é o resultado dos hábitos de pagamento e relacionamento do cidadão com o mercado de crédito. O Serasa Score está disponível para consulta online, permitindo que somente o próprio consumidor veja a sua pontuação.
@@ -11,4 +12,4 @@
 * Histórico de dívidas negativadas
 * Relacionamento financeiro com empresas
 * Dados cadastrais atualizados.
-![score](https://user-images.githubusercontent.com/79420053/200079045-8fa91783-7a26-4213-87b1-bc97c34abf73.jpg)
+![Dbianbanner](https://user-images.githubusercontent.com/79420053/199480193-289782ad-90a7-4537-8f4c-cca64e36b55f.png)
