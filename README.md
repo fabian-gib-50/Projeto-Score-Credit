@@ -11,3 +11,4 @@
 * Histórico de dívidas negativadas
 * Relacionamento financeiro com empresas
 * Dados cadastrais atualizados.
+![score](https://user-images.githubusercontent.com/79420053/200079045-8fa91783-7a26-4213-87b1-bc97c34abf73.jpg)
